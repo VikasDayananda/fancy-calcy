@@ -1,0 +1,21 @@
+.cell{
+    width:20%;
+    color:red;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+    border:2px solid black;
+    font-size: 50px;
+}
+body{
+    background-color: dimgrey;
+    height: 100%;
+    width: 100%;
+}
+.result{
+    text-align: right;
+    vertical-align: middle;
+    line-height: 150px;
+    width:100%;
+    font-size: 50px;
+}
